@@ -7,7 +7,7 @@ Nintendo Switch コントローラーの入力を監視し、各種ボタンや�
 1. Python をインストール
 2. Pygame ライブラリをインストール : `pip install pygame`
 3. コントローラーをPCに接続
-4. スクリプトを実行 :  `python controller_monitor.py`
+4. スクリプトを実行 :  `python check_signal.py`
 5. プログラムが実行され、コントローラーのボタンや軸のアクティブな状態が表示される
 
 ## サポートされているボタン
